@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sonia Hanif 👋
 
-<!--
-**soniaportfolio/soniaportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Aspiring Web Developer and CSS Aspirant from Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+
+## Portfolio
+
+🌐 https://soniaportfolio.github.io/soniaweb/
+
+## Current Learning
+
+* Front-End Development
+* CSS Exam Preparation
+* Web Design Projects
+
+## Goals
+
+* Become a Professional Web Developer
+* Build Real-World Projects
+* Learn Modern Web Technologies
+
+## Contact
+
+📧 soniahanifbrw@gmail.com
+
